@@ -1,0 +1,149 @@
+D:\Programs\VisualStudio\GUI_1\Parcial_2\Parcial_2\bin\Debug\Parcial_2.exe.config
+D:\Programs\VisualStudio\GUI_1\Parcial_2\Parcial_2\bin\Debug\Parcial_2.exe
+D:\Programs\VisualStudio\GUI_1\Parcial_2\Parcial_2\bin\Debug\Parcial_2.pdb
+D:\Programs\VisualStudio\GUI_1\Parcial_2\Parcial_2\obj\Debug\Parcial_2.csprojResolveAssemblyReference.cache
+D:\Programs\VisualStudio\GUI_1\Parcial_2\Parcial_2\obj\Debug\Parcial_2.Properties.Resources.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2\Parcial_2\obj\Debug\Parcial_2.csproj.GenerateResource.Cache
+D:\Programs\VisualStudio\GUI_1\Parcial_2\Parcial_2\obj\Debug\Parcial_2.exe
+D:\Programs\VisualStudio\GUI_1\Parcial_2\Parcial_2\obj\Debug\Parcial_2.pdb
+D:\Programs\VisualStudio\GUI_1\Parcial_2\Parcial_2\obj\Debug\Parcial_2.Mapa.resources
+C:\Users\dimas\Desktop\Parcial_2\Parcial_2\bin\Debug\Parcial_2.exe.config
+C:\Users\dimas\Desktop\Parcial_2\Parcial_2\bin\Debug\Parcial_2.exe
+C:\Users\dimas\Desktop\Parcial_2\Parcial_2\bin\Debug\Parcial_2.pdb
+C:\Users\dimas\Desktop\Parcial_2\Parcial_2\obj\Debug\Parcial_2.csprojAssemblyReference.cache
+C:\Users\dimas\Desktop\Parcial_2\Parcial_2\obj\Debug\Parcial_2.Mapa.resources
+C:\Users\dimas\Desktop\Parcial_2\Parcial_2\obj\Debug\Parcial_2.Properties.Resources.resources
+C:\Users\dimas\Desktop\Parcial_2\Parcial_2\obj\Debug\Parcial_2.csproj.GenerateResource.cache
+C:\Users\dimas\Desktop\Parcial_2\Parcial_2\obj\Debug\Parcial_2.exe
+C:\Users\dimas\Desktop\Parcial_2\Parcial_2\obj\Debug\Parcial_2.pdb
+C:\Users\dimas\Desktop\Parcial_2\Parcial_2\obj\Debug\Parcial_2.Intro.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2\Parcial_2\obj\Debug\Parcial_2.Intro.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.1.1\Parcial_2\bin\Debug\Parcial_2.exe.config
+C:\Users\dimas\Desktop\Parcial_2 v1.1.1\Parcial_2\bin\Debug\Parcial_2.exe
+C:\Users\dimas\Desktop\Parcial_2 v1.1.1\Parcial_2\bin\Debug\Parcial_2.pdb
+C:\Users\dimas\Desktop\Parcial_2 v1.1.1\Parcial_2\obj\Debug\Parcial_2.csprojAssemblyReference.cache
+C:\Users\dimas\Desktop\Parcial_2 v1.1.1\Parcial_2\obj\Debug\Parcial_2.Intro.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.1.1\Parcial_2\obj\Debug\Parcial_2.Mapa.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.1.1\Parcial_2\obj\Debug\Parcial_2.Properties.Resources.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.1.1\Parcial_2\obj\Debug\Parcial_2.csproj.GenerateResource.cache
+C:\Users\dimas\Desktop\Parcial_2 v1.1.1\Parcial_2\obj\Debug\Parcial_2.exe
+C:\Users\dimas\Desktop\Parcial_2 v1.1.1\Parcial_2\obj\Debug\Parcial_2.pdb
+C:\Users\dimas\Desktop\Parcial_2 v1.1.2\Parcial_2\bin\Debug\Parcial_2.exe.config
+C:\Users\dimas\Desktop\Parcial_2 v1.1.2\Parcial_2\bin\Debug\Parcial_2.exe
+C:\Users\dimas\Desktop\Parcial_2 v1.1.2\Parcial_2\bin\Debug\Parcial_2.pdb
+C:\Users\dimas\Desktop\Parcial_2 v1.1.2\Parcial_2\obj\Debug\Parcial_2.csprojAssemblyReference.cache
+C:\Users\dimas\Desktop\Parcial_2 v1.1.2\Parcial_2\obj\Debug\Parcial_2.Intro.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.1.2\Parcial_2\obj\Debug\Parcial_2.Mapa.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.1.2\Parcial_2\obj\Debug\Parcial_2.Properties.Resources.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.1.2\Parcial_2\obj\Debug\Parcial_2.csproj.GenerateResource.cache
+C:\Users\dimas\Desktop\Parcial_2 v1.1.2\Parcial_2\obj\Debug\Parcial_2.exe
+C:\Users\dimas\Desktop\Parcial_2 v1.1.2\Parcial_2\obj\Debug\Parcial_2.pdb
+C:\Users\dimas\Desktop\Parcial_2 v1.1.2\Parcial_2\obj\Debug\Parcial_2.Personajes.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.1.3\Parcial_2\bin\Debug\Parcial_2.exe.config
+C:\Users\dimas\Desktop\Parcial_2 v1.1.3\Parcial_2\bin\Debug\Parcial_2.exe
+C:\Users\dimas\Desktop\Parcial_2 v1.1.3\Parcial_2\bin\Debug\Parcial_2.pdb
+C:\Users\dimas\Desktop\Parcial_2 v1.1.3\Parcial_2\obj\Debug\Parcial_2.csprojAssemblyReference.cache
+C:\Users\dimas\Desktop\Parcial_2 v1.1.3\Parcial_2\obj\Debug\Parcial_2.Intro.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.1.3\Parcial_2\obj\Debug\Parcial_2.Mapa.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.1.3\Parcial_2\obj\Debug\Parcial_2.Properties.Resources.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.1.3\Parcial_2\obj\Debug\Parcial_2.Personajes.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.1.3\Parcial_2\obj\Debug\Parcial_2.csproj.GenerateResource.cache
+C:\Users\dimas\Desktop\Parcial_2 v1.1.3\Parcial_2\obj\Debug\Parcial_2.exe
+C:\Users\dimas\Desktop\Parcial_2 v1.1.3\Parcial_2\obj\Debug\Parcial_2.pdb
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.1.3\Parcial_2\bin\Debug\Parcial_2.exe.config
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.1.3\Parcial_2\obj\Debug\Parcial_2.exe
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.1.3\Parcial_2\obj\Debug\Parcial_2.pdb
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.1.3\Parcial_2\bin\Debug\Parcial_2.exe
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.1.3\Parcial_2\bin\Debug\Parcial_2.pdb
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.1.3\Parcial_2\obj\Debug\Parcial_2.csprojResolveAssemblyReference.cache
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.1.3\Parcial_2\obj\Debug\Parcial_2.Intro.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.1.3\Parcial_2\obj\Debug\Parcial_2.Mapa.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.1.3\Parcial_2\obj\Debug\Parcial_2.Properties.Resources.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.1.3\Parcial_2\obj\Debug\Parcial_2.Personajes.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.1.3\Parcial_2\obj\Debug\Parcial_2.csproj.GenerateResource.Cache
+C:\Users\dimas\Desktop\Parcial_2 v1.2.1\Parcial_2\bin\Debug\Parcial_2.exe.config
+C:\Users\dimas\Desktop\Parcial_2 v1.2.1\Parcial_2\bin\Debug\Parcial_2.exe
+C:\Users\dimas\Desktop\Parcial_2 v1.2.1\Parcial_2\bin\Debug\Parcial_2.pdb
+C:\Users\dimas\Desktop\Parcial_2 v1.2.1\Parcial_2\obj\Debug\Parcial_2.csprojAssemblyReference.cache
+C:\Users\dimas\Desktop\Parcial_2 v1.2.1\Parcial_2\obj\Debug\Parcial_2.Intro.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.2.1\Parcial_2\obj\Debug\Parcial_2.Mapa.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.2.1\Parcial_2\obj\Debug\Parcial_2.Properties.Resources.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.2.1\Parcial_2\obj\Debug\Parcial_2.Personajes.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.2.1\Parcial_2\obj\Debug\Parcial_2.csproj.GenerateResource.cache
+C:\Users\dimas\Desktop\Parcial_2 v1.2.1\Parcial_2\obj\Debug\Parcial_2.exe
+C:\Users\dimas\Desktop\Parcial_2 v1.2.1\Parcial_2\obj\Debug\Parcial_2.pdb
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.2.2\Parcial_2\bin\Debug\Parcial_2.exe.config
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.2.2\Parcial_2\obj\Debug\Parcial_2.exe
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.2.2\Parcial_2\obj\Debug\Parcial_2.pdb
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.2.2\Parcial_2\bin\Debug\Parcial_2.exe
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.2.2\Parcial_2\bin\Debug\Parcial_2.pdb
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.2.2\Parcial_2\obj\Debug\Parcial_2.csprojResolveAssemblyReference.cache
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.2.2\Parcial_2\obj\Debug\Parcial_2.Intro.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.2.2\Parcial_2\obj\Debug\Parcial_2.Mapa.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.2.2\Parcial_2\obj\Debug\Parcial_2.Properties.Resources.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.2.2\Parcial_2\obj\Debug\Parcial_2.Personajes.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.2.2\Parcial_2\obj\Debug\Parcial_2.csproj.GenerateResource.Cache
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.0\Parcial_2\bin\Debug\Parcial_2.exe.config
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.0\Parcial_2\obj\Debug\Parcial_2.exe
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.0\Parcial_2\obj\Debug\Parcial_2.pdb
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.0\Parcial_2\bin\Debug\Parcial_2.exe
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.0\Parcial_2\bin\Debug\Parcial_2.pdb
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.0\Parcial_2\obj\Debug\Parcial_2.csprojResolveAssemblyReference.cache
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.0\Parcial_2\obj\Debug\Parcial_2.Intro.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.0\Parcial_2\obj\Debug\Parcial_2.Mapa.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.0\Parcial_2\obj\Debug\Parcial_2.Properties.Resources.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.0\Parcial_2\obj\Debug\Parcial_2.Personajes.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.0\Parcial_2\obj\Debug\Parcial_2.csproj.GenerateResource.Cache
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.1\Parcial_2\bin\Debug\Parcial_2.exe.config
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.1\Parcial_2\obj\Debug\Parcial_2.exe
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.1\Parcial_2\obj\Debug\Parcial_2.pdb
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.1\Parcial_2\bin\Debug\Parcial_2.exe
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.1\Parcial_2\bin\Debug\Parcial_2.pdb
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.1\Parcial_2\obj\Debug\Parcial_2.csprojResolveAssemblyReference.cache
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.1\Parcial_2\obj\Debug\Parcial_2.Intro.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.1\Parcial_2\obj\Debug\Parcial_2.Mapa.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.1\Parcial_2\obj\Debug\Parcial_2.Properties.Resources.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.1\Parcial_2\obj\Debug\Parcial_2.Personajes.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.3.1\Parcial_2\obj\Debug\Parcial_2.csproj.GenerateResource.Cache
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\bin\Debug\Parcial_2.exe.config
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\obj\Debug\Parcial_2.exe
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\obj\Debug\Parcial_2.pdb
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\bin\Debug\Parcial_2.exe
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\bin\Debug\Parcial_2.pdb
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\obj\Debug\Parcial_2.csprojResolveAssemblyReference.cache
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\obj\Debug\Parcial_2.Combate.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\obj\Debug\Parcial_2.Intro.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\obj\Debug\Parcial_2.Mapa.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\obj\Debug\Parcial_2.Properties.Resources.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\obj\Debug\Parcial_2.Personajes.resources
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\obj\Debug\Parcial_2.csproj.GenerateResource.Cache
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\bin\Debug\EntityFramework.dll
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\bin\Debug\System.Data.SQLite.dll
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\bin\Debug\EntityFramework.xml
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programs\VisualStudio\GUI_1\Parcial_2 v1.4.0\Parcial_2\bin\Debug\System.Data.SQLite.xml
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\bin\Debug\Parcial_2.exe.config
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\bin\Debug\Parcial_2.exe
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\bin\Debug\Parcial_2.pdb
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\bin\Debug\EntityFramework.dll
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\bin\Debug\System.Data.SQLite.dll
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\bin\Debug\EntityFramework.xml
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\bin\Debug\System.Data.SQLite.xml
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\obj\Debug\Parcial_2.csprojAssemblyReference.cache
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\obj\Debug\Parcial_2.Combate.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\obj\Debug\Parcial_2.Intro.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\obj\Debug\Parcial_2.Mapa.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\obj\Debug\Parcial_2.Properties.Resources.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\obj\Debug\Parcial_2.Personajes.resources
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\obj\Debug\Parcial_2.csproj.GenerateResource.cache
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\obj\Debug\Parcial_2.csproj.CopyComplete
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\obj\Debug\Parcial_2.exe
+C:\Users\dimas\Desktop\Parcial_2 v1.4.1\Parcial_2\obj\Debug\Parcial_2.pdb
